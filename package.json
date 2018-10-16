@@ -2,6 +2,27 @@
   "name": "cannainvestments",
   "private": true,
   "dependencies": {
-    "jquery": "^3.3.1"
+    "@rails/webpacker": "3.5",
+    "@types/react": "^16.4.17",
+    "@types/react-dom": "^16.0.9",
+    "@types/node": "^10.5.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^4.3.1",
+    "styled-components": "^3.4.10",
+    "ts-loader": "3.5.0",
+    "typescript": "^3.0.3",
+    "webpack": "3.8.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "2.9.4"
   }
 }

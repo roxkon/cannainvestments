@@ -64,6 +64,7 @@ gem 'devise-i18n'
 gem 'devise_invitable'
 gem 'haml-rails'
 gem 'pg'
+gem 'webpacker', '~> 3.5'
 
 group :development do
   gem 'better_errors'
